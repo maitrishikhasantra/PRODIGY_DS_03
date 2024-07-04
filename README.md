@@ -25,7 +25,7 @@ Evaluation Metrics: Precision, recall, F1 score, and confusion matrix are essent
 
 
 ###### Further Details:
-For a detailed analysis and visualizations, refer to the PRODIGY_DS_03.ipynb file in this repository.
+For a detailed analysis and visualizations, refer to the PRODIGY_DS_03.maitri.ipynb file in this repository.
 
 
 ###### Viewing the Analysis:
